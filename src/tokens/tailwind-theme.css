@@ -1,0 +1,28 @@
+/**
+ * Tailwind CSS v4 @theme bridge for Ayentic brand tokens.
+ * Import after tokens.css in marketing apps.
+ */
+@theme {
+  --color-brand-50: var(--ay-color-brand-50);
+  --color-brand-100: var(--ay-color-brand-100);
+  --color-brand-200: var(--ay-color-brand-200);
+  --color-brand-300: var(--ay-color-brand-300);
+  --color-brand-400: var(--ay-color-brand-400);
+  --color-brand-500: var(--ay-color-brand-500);
+  --color-brand-600: var(--ay-color-brand-600);
+  --color-brand-700: var(--ay-color-brand-700);
+  --color-brand-800: var(--ay-color-brand-800);
+  --color-brand-900: var(--ay-color-brand-900);
+  --color-brand: var(--ay-color-brand-500);
+  --color-ink: var(--ay-color-ink);
+  --color-muted: var(--ay-color-muted);
+  --color-paper: var(--ay-color-paper);
+  --font-sans: var(--ay-font-sans);
+  --font-display: var(--ay-font-display);
+  --shadow-brand-sm: var(--ay-shadow-brand-sm);
+  --shadow-brand: var(--ay-shadow-brand);
+  --shadow-brand-md: var(--ay-shadow-brand-md);
+  --shadow-brand-lg: var(--ay-shadow-brand-lg);
+  --shadow-brand-xl: var(--ay-shadow-brand-xl);
+  --radius-card: var(--ay-radius-card);
+}

@@ -1,0 +1,91 @@
+/**
+ * Ayentic brand design tokens (portable).
+ * Consumed by hub (Tailwind 3) and marketing site (Tailwind 4).
+ */
+:root {
+  --ay-color-brand-50: #e8f0fe;
+  --ay-color-brand-100: #d1e1fd;
+  --ay-color-brand-200: #a3c3fb;
+  --ay-color-brand-300: #75a5f9;
+  --ay-color-brand-400: #4787f7;
+  --ay-color-brand-500: #1566e0;
+  --ay-color-brand-600: #1152b3;
+  --ay-color-brand-700: #0d3d86;
+  --ay-color-brand-800: #09295a;
+  --ay-color-brand-900: #05142d;
+  --ay-color-brand-50-rgb: 232 240 254;
+  --ay-color-brand-100-rgb: 209 225 253;
+  --ay-color-brand-200-rgb: 163 195 251;
+  --ay-color-brand-300-rgb: 117 165 249;
+  --ay-color-brand-400-rgb: 71 135 247;
+  --ay-color-brand-500-rgb: 21 102 224;
+  --ay-color-brand-600-rgb: 17 82 179;
+  --ay-color-brand-700-rgb: 13 61 134;
+  --ay-color-brand-800-rgb: 9 41 90;
+  --ay-color-brand-900-rgb: 5 20 45;
+  --ay-color-white-rgb: 255 255 255;
+  --ay-color-ink: #10213d;
+  --ay-color-muted: #5d6b82;
+  --ay-color-line: rgba(16, 33, 61, 0.12);
+  --ay-color-paper: #f8fbff;
+  --ay-font-sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, Helvetica, Arial, sans-serif;
+  --ay-font-display: "Manrope", "Inter", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", sans-serif;
+  --ay-radius-card: 0.75rem;
+  --ay-radius-popover: 1rem;
+  --ay-shadow-card: 0 1px 3px 0 rgb(0 0 0 / 0.06),
+    0 1px 2px -1px rgb(0 0 0 / 0.06);
+  --ay-shadow-brand-sm: 0 1px 2px 0 rgb(var(--ay-color-brand-500-rgb) / 0.05);
+  --ay-shadow-brand: 0 1px 3px 0 rgb(var(--ay-color-brand-500-rgb) / 0.1),
+    0 1px 2px 0 rgb(var(--ay-color-brand-500-rgb) / 0.06);
+  --ay-shadow-brand-md: 0 4px 6px -1px rgb(var(--ay-color-brand-500-rgb) / 0.1),
+    0 2px 4px -1px rgb(var(--ay-color-brand-500-rgb) / 0.06);
+  --ay-shadow-brand-lg: 0 10px 15px -3px rgb(var(--ay-color-brand-500-rgb) / 0.1),
+    0 4px 6px -2px rgb(var(--ay-color-brand-500-rgb) / 0.05);
+  --ay-shadow-brand-xl: 0 20px 25px -5px rgb(var(--ay-color-brand-500-rgb) / 0.1),
+    0 10px 10px -5px rgb(var(--ay-color-brand-500-rgb) / 0.04);
+  --ay-shadow-elevated-bottom: 0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
+  --ay-shadow-elevated-top: 0 -10px 15px -3px rgb(0 0 0 / 0.1),
+    0 -4px 6px -4px rgb(0 0 0 / 0.1);
+  --ayentic-elevated-shadow-bottom: var(--ay-shadow-elevated-bottom);
+  --ay-shadow-bottom-bar: 0 -1px 4px rgb(0 0 0 / 0.06);
+  --ay-auth-page-background: linear-gradient(
+    135deg,
+    #f0f4ff 0%,
+    #e8edf5 50%,
+    #f5f3ff 100%
+  );
+  --ay-auth-card-background: #ffffff;
+  --ay-auth-card-shadow: 0 1px 3px rgb(0 0 0 / 0.04),
+    0 6px 16px rgb(0 0 0 / 0.06), 0 0 0 1px rgb(0 0 0 / 0.02);
+  --ay-auth-title-color: #1e293b;
+  --ay-auth-muted-color: #64748b;
+  --ay-auth-subtle-color: #94a3b8;
+  --ay-auth-divider-color: #e2e8f0;
+  --ay-auth-control-text: #374151;
+  --ay-auth-control-border: #d1d5db;
+  --ay-auth-control-hover-bg: #f9fafb;
+  --ay-auth-control-hover-border: #9ca3af;
+  --ay-auth-control-active-bg: #f3f4f6;
+  --ay-auth-role-hover-bg: #f8fafc;
+  --ay-auth-role-active-bg: #eff6ff;
+  --ay-status-danger-bg: #fef2f2;
+  --ay-status-danger-text: #991b1b;
+  --ay-status-danger-border: #fecaca;
+  --ay-status-danger-icon: #dc2626;
+  --ay-status-success-bg: #f0fdf4;
+  --ay-status-success-text: #166534;
+  --ay-status-success-border: #bbf7d0;
+  --ay-status-success-icon: #16a34a;
+  --ay-shadow-tour: 0 20px 48px -12px rgb(var(--ay-color-brand-900-rgb) / 0.25),
+    0 8px 20px -8px rgb(var(--ay-color-brand-500-rgb) / 0.12);
+  --ay-shadow-tour-dark: 0 20px 48px -12px rgb(0 0 0 / 0.5),
+    0 8px 20px -8px rgb(var(--ay-color-brand-500-rgb) / 0.15);
+  --ay-focus-ring-shadow: 0 0 0 0.2rem rgb(var(--ay-color-brand-500-rgb) / 0.1);
+  --ay-channel-whatsapp: #25d366;
+  --ay-channel-whatsapp-rgb: 37 211 102;
+  --ay-inline-drawer-duration: 0.35s;
+  --ay-inline-drawer-easing: cubic-bezier(0.32, 0.72, 0, 1);
+}
