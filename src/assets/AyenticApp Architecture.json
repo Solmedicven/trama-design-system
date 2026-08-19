@@ -1,0 +1,1031 @@
+{
+  "version": "31.3.1",
+  "pages": [
+    {
+      "id": "cOAR8oTowb4da_XPz9x-",
+      "name": "Página-1",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--9",
+          "type": "edge",
+          "parent": "1",
+          "source": "re6IEvKt9iDfO-eek4LB-1",
+          "target": "LVMlayb7TwPy2zS2FDg--1"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--18",
+          "type": "edge",
+          "parent": "1",
+          "source": "re6IEvKt9iDfO-eek4LB-1",
+          "target": "re6IEvKt9iDfO-eek4LB-4"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-1",
+          "type": "node",
+          "parent": "1",
+          "label": "Master"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-2",
+          "type": "node",
+          "parent": "1",
+          "label": "Ventas"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-3",
+          "type": "node",
+          "parent": "1",
+          "label": "Soporte Tecnico"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-4",
+          "type": "node",
+          "parent": "1",
+          "label": "Garantias"
+        },
+        {
+          "id": "-oK8TbhQqBVwF5f9LTKd-1",
+          "type": "edge",
+          "parent": "1",
+          "source": "re6IEvKt9iDfO-eek4LB-6",
+          "target": "LVMlayb7TwPy2zS2FDg--32"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-6",
+          "type": "node",
+          "parent": "1",
+          "label": "List"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-7",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-6",
+          "label": "Precio &amp; info"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-11",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-6",
+          "label": "Informacion"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-24",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-6",
+          "label": "Creditos"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-13",
+          "type": "node",
+          "parent": "1",
+          "label": "List"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-14",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-13",
+          "label": "Errores"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-15",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-13",
+          "label": "Tutoriales &amp; owbordings"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-23",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-13",
+          "label": "Manuales tecnicos"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-20",
+          "type": "node",
+          "parent": "1",
+          "label": "List"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-21",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-20",
+          "label": "Solicitudes"
+        },
+        {
+          "id": "re6IEvKt9iDfO-eek4LB-22",
+          "type": "node",
+          "parent": "re6IEvKt9iDfO-eek4LB-20",
+          "label": "Segimiento"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--1",
+          "type": "node",
+          "parent": "1",
+          "label": "Portafolio"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--2",
+          "type": "node",
+          "parent": "1",
+          "label": "List"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--4",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--2",
+          "label": "Facturas"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--5",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--2",
+          "label": "Cotizacion"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--10",
+          "type": "edge",
+          "parent": "1",
+          "source": "re6IEvKt9iDfO-eek4LB-1",
+          "target": "re6IEvKt9iDfO-eek4LB-3"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--12",
+          "type": "node",
+          "parent": "1",
+          "label": "Logistica"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--13",
+          "type": "node",
+          "parent": "1",
+          "label": "List"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--16",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--13",
+          "label": "Seguimiento"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--21",
+          "type": "edge",
+          "parent": "1",
+          "source": "LVMlayb7TwPy2zS2FDg--19",
+          "target": "re6IEvKt9iDfO-eek4LB-1"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--19",
+          "type": "node",
+          "parent": "1",
+          "label": "Actor"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--22",
+          "type": "node",
+          "parent": "1",
+          "label": "Agent Evaluator"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--24",
+          "type": "node",
+          "parent": "1",
+          "label": "messages"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--25",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--24",
+          "label": "Option 1"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--26",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--24",
+          "label": "Option 2"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--27",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--24",
+          "label": "Option 3"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--29",
+          "type": "edge",
+          "parent": "1",
+          "source": "LVMlayb7TwPy2zS2FDg--22",
+          "target": "LVMlayb7TwPy2zS2FDg--26"
+        },
+        {
+          "id": "-oK8TbhQqBVwF5f9LTKd-4",
+          "type": "edge",
+          "parent": "1",
+          "source": "LVMlayb7TwPy2zS2FDg--32",
+          "target": "-oK8TbhQqBVwF5f9LTKd-3"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--32",
+          "type": "node",
+          "parent": "1"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--33",
+          "type": "node",
+          "parent": "1",
+          "label": "messages"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--34",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--33",
+          "label": "Option 1"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--35",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--33",
+          "label": "Option 2"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--36",
+          "type": "node",
+          "parent": "LVMlayb7TwPy2zS2FDg--33",
+          "label": "Option 3"
+        },
+        {
+          "id": "LVMlayb7TwPy2zS2FDg--37",
+          "type": "edge",
+          "parent": "1",
+          "source": "LVMlayb7TwPy2zS2FDg--22",
+          "target": "LVMlayb7TwPy2zS2FDg--32"
+        },
+        {
+          "id": "-oK8TbhQqBVwF5f9LTKd-2",
+          "type": "node",
+          "parent": "1",
+          "label": "Agentic"
+        },
+        {
+          "id": "-oK8TbhQqBVwF5f9LTKd-3",
+          "type": "node",
+          "parent": "1",
+          "label": "Recommendation select"
+        }
+      ]
+    },
+    {
+      "id": "8SVRuoTBKulj4aJBLvHB",
+      "name": "Ayentic — Índice central (diagramas)",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "idx-h1",
+          "type": "node",
+          "parent": "1",
+          "label": "Ayentic — Hub central de diagramas (draw.io)"
+        },
+        {
+          "id": "idx-t1",
+          "type": "node",
+          "parent": "1",
+          "label": "Fuentes canónicas en repo:\n• docs/architecture/README.md — C1/C2\n• docs/architecture/flows.md — QR, mensajes, sync, entornos, HubSpot OAuth\n• docs/infrastructure.md — Railway, Supabase, split, build Docker\n• docs/escalado-horizontal-estado.md — 3 servicios, Redis, réplicas\n• server/docs/baileys/flow-map.md — detalle Baileys\n\nPestañas en este archivo:\n1. Página-1 — taxonomía Master (original)\n2. Opciones — arquitectura #170 (LLM detached)\n3. Esta hoja — índice\n4. C1 / C2 sistema\n5. Red split + persistencia externa\n6. Flujos WhatsApp (resumen)\n7. Modelo datos PG (core)\n8. Build Docker + entornos"
+        },
+        {
+          "id": "idx-note",
+          "type": "node",
+          "parent": "1",
+          "label": "Actualizar diagramas si el código diverge.\nPriorizar HTTP-API-SURFACE.md y server.ts."
+        }
+      ]
+    },
+    {
+      "id": "sIie3wgcE5Eq6A5MwdLo",
+      "name": "Ayentic — C1 contexto + C2 monorepo",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "c12-title",
+          "type": "node",
+          "parent": "1",
+          "label": "C1 — Contexto del sistema (docs/architecture/README.md)"
+        },
+        {
+          "id": "c12-users",
+          "type": "node",
+          "parent": "1",
+          "label": "Usuarios\nInterno comercial / ops"
+        },
+        {
+          "id": "c12-web",
+          "type": "node",
+          "parent": "1",
+          "label": "Angular client\n(SPA)"
+        },
+        {
+          "id": "c12-api",
+          "type": "node",
+          "parent": "1",
+          "label": "Node Express\nREST + Socket.IO"
+        },
+        {
+          "id": "c12-pg",
+          "type": "node",
+          "parent": "1",
+          "label": "PostgreSQL\n(Supabase)"
+        },
+        {
+          "id": "c12-hs",
+          "type": "node",
+          "parent": "1",
+          "label": "HubSpot CRM"
+        },
+        {
+          "id": "c12-wa",
+          "type": "node",
+          "parent": "1",
+          "label": "WhatsApp\n(Baileys)"
+        },
+        {
+          "id": "c12-e1",
+          "type": "edge",
+          "parent": "1",
+          "source": "c12-users",
+          "target": "c12-web"
+        },
+        {
+          "id": "c12-e2",
+          "type": "edge",
+          "parent": "1",
+          "source": "c12-web",
+          "target": "c12-api"
+        },
+        {
+          "id": "c12-e3",
+          "type": "edge",
+          "parent": "1",
+          "source": "c12-api",
+          "target": "c12-pg"
+        },
+        {
+          "id": "c12-e4",
+          "type": "edge",
+          "parent": "1",
+          "source": "c12-api",
+          "target": "c12-hs"
+        },
+        {
+          "id": "c12-e5",
+          "type": "edge",
+          "parent": "1",
+          "source": "c12-api",
+          "target": "c12-wa"
+        },
+        {
+          "id": "c12-sub",
+          "type": "node",
+          "parent": "1",
+          "label": "C2 — Contenedores lógicos (client / server)"
+        },
+        {
+          "id": "c12-client",
+          "type": "node",
+          "parent": "1",
+          "label": "client"
+        },
+        {
+          "id": "c12-ca",
+          "type": "node",
+          "parent": "c12-client",
+          "label": "apps: chat, tasks, forms, dashboard"
+        },
+        {
+          "id": "c12-cc",
+          "type": "node",
+          "parent": "c12-client",
+          "label": "core: servicios, componentes"
+        },
+        {
+          "id": "c12-server",
+          "type": "node",
+          "parent": "1",
+          "label": "server"
+        },
+        {
+          "id": "c12-sr",
+          "type": "node",
+          "parent": "c12-server",
+          "label": "routes /api · services"
+        },
+        {
+          "id": "c12-sb",
+          "type": "node",
+          "parent": "c12-server",
+          "label": "Baileys / sync / media / colas"
+        },
+        {
+          "id": "c12-pg2",
+          "type": "node",
+          "parent": "1",
+          "label": "PostgreSQL"
+        },
+        {
+          "id": "c12-e6",
+          "type": "edge",
+          "parent": "1",
+          "source": "c12-client",
+          "target": "c12-server"
+        },
+        {
+          "id": "c12-e7",
+          "type": "edge",
+          "parent": "1",
+          "source": "c12-server",
+          "target": "c12-pg2"
+        },
+        {
+          "id": "c12-lbl",
+          "type": "node",
+          "parent": "1",
+          "label": "HTTP + WebSocket (en monolito mismo proceso; en split ver pestaña Red)"
+        }
+      ]
+    },
+    {
+      "id": "cQmvD4vM654Iaw-Nl2z3",
+      "name": "Ayentic — Red split (TEST/PROD)",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "net-title",
+          "type": "node",
+          "parent": "1",
+          "label": "Despliegue desacoplado — webapp + realtime-gateway + worker (docs/infrastructure.md, escalado-horizontal-estado.md)"
+        },
+        {
+          "id": "net-browser",
+          "type": "node",
+          "parent": "1",
+          "label": "Navegador"
+        },
+        {
+          "id": "net-webapp",
+          "type": "node",
+          "parent": "1",
+          "label": "webapp Railway\nSERVER_ROLE=api\nREST + Angular estático\nRedis emitter (API)"
+        },
+        {
+          "id": "net-gw",
+          "type": "node",
+          "parent": "1",
+          "label": "realtime-gateway\nSocket.IO + Redis adapter\nWHATSAPP_BRIDGE_ON_WORKER"
+        },
+        {
+          "id": "net-worker",
+          "type": "node",
+          "parent": "1",
+          "label": "worker-service\nBaileys + BullMQ\n1 réplica (sesión WA)"
+        },
+        {
+          "id": "net-redis",
+          "type": "node",
+          "parent": "1",
+          "label": "Redis\nSocket.IO + colas"
+        },
+        {
+          "id": "net-pg",
+          "type": "node",
+          "parent": "1",
+          "label": "Supabase Postgres\n6543 pooler runtime\n5432 direct DDL"
+        },
+        {
+          "id": "net-sb",
+          "type": "node",
+          "parent": "1",
+          "label": "Supabase Storage\n(media compartido)"
+        },
+        {
+          "id": "net-wa",
+          "type": "node",
+          "parent": "1",
+          "label": "WhatsApp Cloud"
+        },
+        {
+          "id": "net-e1",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-browser",
+          "target": "net-webapp"
+        },
+        {
+          "id": "net-e2",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-browser",
+          "target": "net-gw"
+        },
+        {
+          "id": "net-e3",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-webapp",
+          "target": "net-redis"
+        },
+        {
+          "id": "net-e4",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-gw",
+          "target": "net-redis"
+        },
+        {
+          "id": "net-e5",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-worker",
+          "target": "net-redis"
+        },
+        {
+          "id": "net-e6",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-webapp",
+          "target": "net-pg"
+        },
+        {
+          "id": "net-e7",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-worker",
+          "target": "net-pg"
+        },
+        {
+          "id": "net-e8",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-gw",
+          "target": "net-pg"
+        },
+        {
+          "id": "net-e9",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-worker",
+          "target": "net-wa"
+        },
+        {
+          "id": "net-e10",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-webapp",
+          "target": "net-sb"
+        },
+        {
+          "id": "net-e11",
+          "type": "edge",
+          "parent": "1",
+          "source": "net-worker",
+          "target": "net-sb"
+        },
+        {
+          "id": "net-note",
+          "type": "node",
+          "parent": "1",
+          "label": "Cliente Angular: WHATSAPP_CHAT_WS_URL → gateway. Mismo REDIS_URL + SOCKETIO_REDIS_KEY en los tres. Monolito local: todo en un proceso (ver C1/C2)."
+        }
+      ]
+    },
+    {
+      "id": "4ZXdVOLmSjD5V5H_G5mt",
+      "name": "Ayentic — Flujos WhatsApp (resumen)",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "wa-t",
+          "type": "node",
+          "parent": "1",
+          "label": "Resumen desde docs/architecture/flows.md (detalle = secuencias Mermaid en repo)"
+        },
+        {
+          "id": "wa-in",
+          "type": "node",
+          "parent": "1",
+          "label": "Mensaje entrante (WA → UI)"
+        },
+        {
+          "id": "wa-i1",
+          "type": "node",
+          "parent": "wa-in",
+          "label": "WhatsApp"
+        },
+        {
+          "id": "wa-i2",
+          "type": "node",
+          "parent": "wa-in",
+          "label": "Baileys (worker / monolito)"
+        },
+        {
+          "id": "wa-i3",
+          "type": "node",
+          "parent": "wa-in",
+          "label": "Persistir: INSERT conversation_messages\nUPDATE conversations"
+        },
+        {
+          "id": "wa-i4",
+          "type": "node",
+          "parent": "wa-in",
+          "label": "Socket.IO → salas\nconversation:*"
+        },
+        {
+          "id": "wa-i5",
+          "type": "node",
+          "parent": "wa-in",
+          "label": "Angular chat UI"
+        },
+        {
+          "id": "wa-ie1",
+          "type": "edge",
+          "parent": "wa-in",
+          "source": "wa-i1",
+          "target": "wa-i2"
+        },
+        {
+          "id": "wa-ie2",
+          "type": "edge",
+          "parent": "wa-in",
+          "source": "wa-i2",
+          "target": "wa-i3"
+        },
+        {
+          "id": "wa-ie3",
+          "type": "edge",
+          "parent": "wa-in",
+          "source": "wa-i3",
+          "target": "wa-i4"
+        },
+        {
+          "id": "wa-ie4",
+          "type": "edge",
+          "parent": "wa-in",
+          "source": "wa-i4",
+          "target": "wa-i5"
+        },
+        {
+          "id": "wa-out",
+          "type": "node",
+          "parent": "1",
+          "label": "Mensaje saliente (agente → WA)"
+        },
+        {
+          "id": "wa-o1",
+          "type": "node",
+          "parent": "wa-out",
+          "label": "POST /api/chats/…/messages"
+        },
+        {
+          "id": "wa-o2",
+          "type": "node",
+          "parent": "wa-out",
+          "label": "seller / sent_by_agent_id\nINSERT pendiente"
+        },
+        {
+          "id": "wa-o3",
+          "type": "node",
+          "parent": "wa-out",
+          "label": "Cola / Baileys envío"
+        },
+        {
+          "id": "wa-o4",
+          "type": "node",
+          "parent": "wa-out",
+          "label": "WhatsApp ACK →\nUPDATE bridge_message_id / estado"
+        },
+        {
+          "id": "wa-o5",
+          "type": "node",
+          "parent": "wa-out",
+          "label": "Socket.IO message updated"
+        },
+        {
+          "id": "wa-oe1",
+          "type": "edge",
+          "parent": "wa-out",
+          "source": "wa-o1",
+          "target": "wa-o2"
+        },
+        {
+          "id": "wa-oe2",
+          "type": "edge",
+          "parent": "wa-out",
+          "source": "wa-o2",
+          "target": "wa-o3"
+        },
+        {
+          "id": "wa-oe3",
+          "type": "edge",
+          "parent": "wa-out",
+          "source": "wa-o3",
+          "target": "wa-o4"
+        },
+        {
+          "id": "wa-oe4",
+          "type": "edge",
+          "parent": "wa-out",
+          "source": "wa-o4",
+          "target": "wa-o5"
+        },
+        {
+          "id": "wa-qr",
+          "type": "node",
+          "parent": "1",
+          "label": "Conexión / QR (alto nivel)"
+        },
+        {
+          "id": "wa-q1",
+          "type": "node",
+          "parent": "wa-qr",
+          "label": "Cargar creds"
+        },
+        {
+          "id": "wa-q2",
+          "type": "node",
+          "parent": "wa-qr",
+          "label": "createWaSocket"
+        },
+        {
+          "id": "wa-q3",
+          "type": "node",
+          "parent": "wa-qr",
+          "label": "QR → WS → UI modal"
+        },
+        {
+          "id": "wa-q4",
+          "type": "node",
+          "parent": "wa-qr",
+          "label": "Usuario escanea"
+        },
+        {
+          "id": "wa-q5",
+          "type": "node",
+          "parent": "wa-qr",
+          "label": "Persistir creds + open"
+        },
+        {
+          "id": "wa-q6",
+          "type": "node",
+          "parent": "wa-qr",
+          "label": "History sync / chats.upsert\n→ Postgres"
+        },
+        {
+          "id": "wa-qe1",
+          "type": "edge",
+          "parent": "wa-qr",
+          "source": "wa-q1",
+          "target": "wa-q2"
+        },
+        {
+          "id": "wa-qe2",
+          "type": "edge",
+          "parent": "wa-qr",
+          "source": "wa-q2",
+          "target": "wa-q3"
+        },
+        {
+          "id": "wa-qe3",
+          "type": "edge",
+          "parent": "wa-qr",
+          "source": "wa-q3",
+          "target": "wa-q4"
+        },
+        {
+          "id": "wa-qe4",
+          "type": "edge",
+          "parent": "wa-qr",
+          "source": "wa-q4",
+          "target": "wa-q5"
+        },
+        {
+          "id": "wa-qe5",
+          "type": "edge",
+          "parent": "wa-qr",
+          "source": "wa-q5",
+          "target": "wa-q6"
+        },
+        {
+          "id": "wa-sync",
+          "type": "node",
+          "parent": "1",
+          "label": "Sync estado deseado (syncState / historial)"
+        },
+        {
+          "id": "wa-s1",
+          "type": "node",
+          "parent": "wa-sync",
+          "label": "Estados: connecting → open_awaiting_sync → syncing → synced. Eventos history sync (partial) → GET /api/chats incremental. Ver flows.md secciones sincronización."
+        }
+      ]
+    },
+    {
+      "id": "1_iaMkowfeK-UrI7jeSo",
+      "name": "Ayentic — Persistencia Postgres (core chat)",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "pg-t",
+          "type": "node",
+          "parent": "1",
+          "label": "Modelo relacional simplificado — migración inicial + evolución (server/src/database/migrations)"
+        },
+        {
+          "id": "pg-sellers",
+          "type": "node",
+          "parent": "1",
+          "label": "sellers\nid, hubspot_user_id, email, name…"
+        },
+        {
+          "id": "pg-conv",
+          "type": "node",
+          "parent": "1",
+          "label": "conversations\nid, chat_jid, phone_number,\nassigned_seller_id, status, …"
+        },
+        {
+          "id": "pg-msg",
+          "type": "node",
+          "parent": "1",
+          "label": "conversation_messages\nid, conversation_id,\nbridge_message_id, content,\nis_from_me, sent_at, …"
+        },
+        {
+          "id": "pg-tasks",
+          "type": "node",
+          "parent": "1",
+          "label": "tasks\nconversation_id, seller_id, …"
+        },
+        {
+          "id": "pg-notes",
+          "type": "node",
+          "parent": "1",
+          "label": "conversation_notes, labels,\nassignments, hubspot_sync_log…"
+        },
+        {
+          "id": "pg-e1",
+          "type": "edge",
+          "parent": "1",
+          "source": "pg-sellers",
+          "target": "pg-conv"
+        },
+        {
+          "id": "pg-e2",
+          "type": "edge",
+          "parent": "1",
+          "source": "pg-conv",
+          "target": "pg-msg"
+        },
+        {
+          "id": "pg-e3",
+          "type": "edge",
+          "parent": "1",
+          "source": "pg-conv",
+          "target": "pg-tasks"
+        },
+        {
+          "id": "pg-e4",
+          "type": "edge",
+          "parent": "1",
+          "source": "pg-conv",
+          "target": "pg-notes"
+        },
+        {
+          "id": "pg-note",
+          "type": "node",
+          "parent": "1",
+          "label": "RLS habilitado en muchas tablas públicas (017): políticas en Supabase. Media: conversation_messages.media_* + Storage Supabase según MEDIA_STORAGE_* . WhatsApp auth: whatsapp_sessions / creds según backend."
+        }
+      ]
+    },
+    {
+      "id": "iCmdLtc79gOWGc80OsDu",
+      "name": "Ayentic — Build Docker + CI / entornos",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "bld-t",
+          "type": "node",
+          "parent": "1",
+          "label": "Dockerfile multi-stage + GitHub Actions (docs/infrastructure.md, monolito plan)"
+        },
+        {
+          "id": "bld-s1",
+          "type": "node",
+          "parent": "1",
+          "label": "Stage 1 — client-builder\nng build → public/"
+        },
+        {
+          "id": "bld-s2",
+          "type": "node",
+          "parent": "1",
+          "label": "Stage 2 — server-builder\ntsc → dist/"
+        },
+        {
+          "id": "bld-s3",
+          "type": "node",
+          "parent": "1",
+          "label": "Stage 3 — runtime\nnode dist/server.js\n+ public SPA"
+        },
+        {
+          "id": "bld-e1",
+          "type": "edge",
+          "parent": "1",
+          "source": "bld-s1",
+          "target": "bld-s2"
+        },
+        {
+          "id": "bld-e2",
+          "type": "edge",
+          "parent": "1",
+          "source": "bld-s2",
+          "target": "bld-s3"
+        },
+        {
+          "id": "bld-ci",
+          "type": "node",
+          "parent": "1",
+          "label": "CI / despliegue (lógica)"
+        },
+        {
+          "id": "bld-c1",
+          "type": "node",
+          "parent": "bld-ci",
+          "label": "push PR / branch\n→ CI lint + test + build"
+        },
+        {
+          "id": "bld-c2",
+          "type": "node",
+          "parent": "bld-ci",
+          "label": "main → deploy TEST\n(Railway)"
+        },
+        {
+          "id": "bld-c3",
+          "type": "node",
+          "parent": "bld-ci",
+          "label": "Release workflow\n→ PROD (tag)"
+        },
+        {
+          "id": "bld-c4",
+          "type": "node",
+          "parent": "bld-ci",
+          "label": "Plan K8s/Argo en flows.md = brújula; operación real Railway según git-release-workflow.md."
+        },
+        {
+          "id": "bld-auth",
+          "type": "node",
+          "parent": "1",
+          "label": "Auth + CRM (referencia)"
+        },
+        {
+          "id": "bld-a1",
+          "type": "node",
+          "parent": "bld-auth",
+          "label": "Supabase Auth\n(JWT en API)"
+        },
+        {
+          "id": "bld-a2",
+          "type": "node",
+          "parent": "bld-auth",
+          "label": "HubSpot OAuth\n/api hubspot routes\ncookies HttpOnly"
+        },
+        {
+          "id": "bld-a3",
+          "type": "node",
+          "parent": "bld-auth",
+          "label": "GET /app-config.js\n/api/config/public"
+        },
+        {
+          "id": "bld-a4",
+          "type": "node",
+          "parent": "bld-auth",
+          "label": "Detalle: server/docs/architecture/auth-provider-architecture.md · OAuth secuencia en flows.md § HubSpot"
+        }
+      ]
+    }
+  ]
+}
