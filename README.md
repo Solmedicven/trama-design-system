@@ -7,6 +7,8 @@ Shared brand tokens, PrimeNG theme, and assets for:
 
 Package name: `@trama/design-system`.
 
+Context: [modules.md](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/modules.md). Product behavior stays in the hub wiki, not in this package.
+
 ## Install (local workspace)
 
 ```json
