@@ -7,7 +7,7 @@ Shared brand tokens, PrimeNG theme, and assets for:
 
 Package name: `@trama/design-system`.
 
-Context: [modules.md](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/modules.md). Product behavior stays in the hub wiki, not in this package.
+Hub: [wiki index](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/README.md) · this repo [modules.md](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/modules.md) · board fields [issues.md](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/issues.md#campos-del-tablero). Doc-layer P0–P3 are not board Priority.
 
 ## Install (local workspace)
 
