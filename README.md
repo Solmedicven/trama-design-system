@@ -7,7 +7,7 @@ Shared brand tokens, PrimeNG theme, and assets for:
 
 Package name: `@trama/design-system`.
 
-Hub: [wiki index](https://github.com/Solmedicven/trama/blob/docs/wiki-sibling-links/docs/wiki/README.md) · this repo [modules.md](https://github.com/Solmedicven/trama/blob/docs/wiki-sibling-links/docs/wiki/modules.md) · board fields [issues.md](https://github.com/Solmedicven/trama/blob/docs/wiki-sibling-links/docs/wiki/issues.md#campos-del-tablero). Doc-layer P0–P3 are not board Priority.
+Hub: [wiki index](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/README.md) · this repo [modules.md](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/modules.md) · board fields [issues.md](https://github.com/Solmedicven/trama/blob/develop/docs/wiki/issues.md#campos-del-tablero). Doc-layer P0–P3 are not board Priority.
 
 ## Install (local workspace)
 
