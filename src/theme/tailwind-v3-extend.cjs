@@ -1,13 +1,13 @@
 /**
  * Tailwind CSS v3 theme.extend fragment for the hub.
  * Usage in tailwind.config.js:
- *   const { ayenticBrandExtend } = require('@ayentic/design-system/src/theme/tailwind-v3-extend.cjs');
- *   theme: { extend: { ...ayenticBrandExtend, ...local } }
+ *   const { tramaBrandExtend } = require('@trama/design-system/src/theme/tailwind-v3-extend.cjs');
+ *   theme: { extend: { ...tramaBrandExtend, ...local } }
  */
 const brand = (shade) =>
   `rgb(var(--ay-color-brand-${shade}-rgb) / <alpha-value>)`;
 
-const ayenticBrandExtend = {
+const tramaBrandExtend = {
   colors: {
     brand: {
       DEFAULT: brand(500),
@@ -37,4 +37,4 @@ const ayenticBrandExtend = {
   },
 };
 
-module.exports = { ayenticBrandExtend, brand };
+module.exports = { tramaBrandExtend, brand };

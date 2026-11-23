@@ -1,7 +1,7 @@
 import { providePrimeNG } from "primeng/config";
-import { AyenticPreset } from "./ayentic-preset";
+import { TramaPreset } from "./trama-preset";
 
-export type AyenticPrimeNGOptions = {
+export type TramaPrimeNGOptions = {
   /** Override cssLayer order if the host app uses a different Tailwind setup. */
   cssLayerOrder?: string;
 };
@@ -11,10 +11,10 @@ export type AyenticPrimeNGOptions = {
  * Keeps cssLayer order and zIndex map aligned across consumers.
  * Return type is inferred so consumers do not pull a second @angular/core types tree.
  */
-export function provideAyenticPrimeNG(options: AyenticPrimeNGOptions = {}) {
+export function provideTramaPrimeNG(options: TramaPrimeNGOptions = {}) {
   return providePrimeNG({
     theme: {
-      preset: AyenticPreset,
+      preset: TramaPreset,
       options: {
         darkModeSelector: false,
         cssLayer: {

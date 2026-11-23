@@ -1,14 +1,14 @@
 import { providePrimeNG } from "primeng/config";
-import { AyenticPreset } from "./ayentic-preset";
+import { TramaPreset } from "./trama-preset";
 /**
  * Shared PrimeNG provider contract for hub + marketing site.
  * Keeps cssLayer order and zIndex map aligned across consumers.
  * Return type is inferred so consumers do not pull a second @angular/core types tree.
  */
-export function provideAyenticPrimeNG(options = {}) {
+export function provideTramaPrimeNG(options = {}) {
     return providePrimeNG({
         theme: {
-            preset: AyenticPreset,
+            preset: TramaPreset,
             options: {
                 darkModeSelector: false,
                 cssLayer: {

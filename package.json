@@ -1,7 +1,7 @@
 {
-  "name": "@ayentic/design-system",
+  "name": "@trama/design-system",
   "version": "0.1.0",
-  "description": "Ayentic shared design tokens, PrimeNG theme, and brand assets",
+  "description": "Trama shared design tokens, PrimeNG theme, and brand assets",
   "private": false,
   "type": "module",
   "sideEffects": [
@@ -45,7 +45,7 @@
     }
   },
   "keywords": [
-    "ayentic",
+    "trama",
     "design-system",
     "primeng",
     "tokens"

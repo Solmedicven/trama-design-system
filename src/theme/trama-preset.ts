@@ -1,5 +1,5 @@
 /**
- * PrimeNG theme preset for Ayentic.
+ * PrimeNG theme preset for Trama.
  * Material base, brand primary tokens, neutral secondaries, no green.
  */
 import Material from "@primeuix/themes/material";
@@ -9,7 +9,7 @@ const brandToken = (shade: number) => `var(--ay-color-brand-${shade})`;
 const brandMix = (shade: number, opacity: number) =>
   `rgb(var(--ay-color-brand-${shade}-rgb) / ${opacity})`;
 
-export const AyenticPreset = definePreset(Material, {
+export const TramaPreset = definePreset(Material, {
   semantic: {
     primary: {
       50: brandToken(50),

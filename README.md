@@ -1,16 +1,18 @@
-# @ayentic/design-system
+# trama-design-system
 
-Shared Ayentic brand tokens, PrimeNG theme, and assets for:
+Shared brand tokens, PrimeNG theme, and assets for:
 
-- **ayentic** (hub product)
-- **ayentic-web** (marketing / SEO site)
+- [Solmedicven/trama](https://github.com/Solmedicven/trama) (hub)
+- [Solmedicven/trama-web](https://github.com/Solmedicven/trama-web) (marketing)
+
+Package name: `@trama/design-system`.
 
 ## Install (local workspace)
 
 ```json
 {
   "dependencies": {
-    "@ayentic/design-system": "file:../ayentic-design-system"
+    "@trama/design-system": "file:../trama-design-system"
   }
 }
 ```
@@ -19,31 +21,31 @@ Shared Ayentic brand tokens, PrimeNG theme, and assets for:
 
 | Import | Purpose |
 |--------|---------|
-| `@ayentic/design-system/tokens.css` | CSS custom properties (`--ay-*`) |
-| `@ayentic/design-system/tailwind-theme.css` | Tailwind v4 `@theme` bridge |
-| `@ayentic/design-system/theme` | `AyenticPreset`, `provideAyenticPrimeNG()` |
-| `@ayentic/design-system/assets/*` | Brand SVGs |
+| `@trama/design-system/tokens.css` | CSS custom properties (`--ay-*`) |
+| `@trama/design-system/tailwind-theme.css` | Tailwind v4 `@theme` bridge |
+| `@trama/design-system/theme` | `TramaPreset`, `provideTramaPrimeNG()` |
+| `@trama/design-system/assets/*` | Brand SVGs |
 
 ## Hub (Tailwind 3)
 
 ```scss
-@import "@ayentic/design-system/tokens.css";
+@import "@trama/design-system/tokens.css";
 ```
 
 ```js
-const { ayenticBrandExtend } = require("@ayentic/design-system/tailwind-v3-extend.cjs");
+const { tramaBrandExtend } = require("@trama/design-system/tailwind-v3-extend.cjs");
 ```
 
 ```ts
-import { provideAyenticPrimeNG } from "@ayentic/design-system/theme";
-// providers: [provideAyenticPrimeNG()]
+import { provideTramaPrimeNG } from "@trama/design-system/theme";
+// providers: [provideTramaPrimeNG()]
 ```
 
 ## Marketing (Tailwind 4)
 
 ```css
-@import "@ayentic/design-system/tokens.css";
-@import "@ayentic/design-system/tailwind-theme.css";
+@import "@trama/design-system/tokens.css";
+@import "@trama/design-system/tailwind-theme.css";
 @import "tailwindcss";
 ```
 
@@ -51,4 +53,4 @@ import { provideAyenticPrimeNG } from "@ayentic/design-system/theme";
 
 **In:** tokens, PrimeNG preset, brand assets, presentational brand components (incremental).
 
-**Out:** chat, left-sidebar, dashboard cards, forms engine (hub domain).
+**Out:** chat, left sidebar, dashboard cards, forms engine (hub domain).

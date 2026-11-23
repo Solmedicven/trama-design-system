@@ -1,2 +1,2 @@
-export { AyenticPreset } from "./ayentic-preset";
-export { provideAyenticPrimeNG, type AyenticPrimeNGOptions, } from "./provide-ayentic-primeng";
+export { TramaPreset } from "./trama-preset";
+export { provideTramaPrimeNG, type TramaPrimeNGOptions, } from "./provide-trama-primeng";

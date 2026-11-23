@@ -1,5 +1,5 @@
-export { AyenticPreset } from "./ayentic-preset";
+export { TramaPreset } from "./trama-preset";
 export {
-  provideAyenticPrimeNG,
-  type AyenticPrimeNGOptions,
-} from "./provide-ayentic-primeng";
+  provideTramaPrimeNG,
+  type TramaPrimeNGOptions,
+} from "./provide-trama-primeng";
